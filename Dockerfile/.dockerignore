@@ -1,0 +1,5 @@
+../public/storage
+.env
+node_modules
+.idea
+.vscode
